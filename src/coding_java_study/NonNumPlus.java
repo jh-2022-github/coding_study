@@ -13,7 +13,7 @@ public class NonNumPlus {
 			sum -=i;
 		}
 		return sum;
-	} 
+	}  
 	
 	//내 풀이
 	public int solution(int[] numbers) {
